@@ -80,7 +80,7 @@
 	
 	-- Remote Status --
 	_Remote_Status = true														-- Enable the use of remote commands to know the status of the gambling session
-	_Remote_AdminName = { "name1", "name2" }									-- Name of the character used to request status information
+	_Remote_AdminName = { "Ragerunner", "name2" }									-- Name of the character used to request status information
 	_Remote_OutcomeCommand = "What's your outcome?"								-- Command to send outcome information
 	_Remote_CashCommand = "How much do you have in cash?"						-- Command to send available cash information
 	_Remote_ItemsCommand = "How much do you have in items?"						-- Command to send how much the items in the container are worth
